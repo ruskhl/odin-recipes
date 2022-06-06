@@ -21,5 +21,8 @@
     .main {
         width: 100%;
     }
+    iframe {
+        max-width: max-content;
+    }
     
 }
